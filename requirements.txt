@@ -1,2 +1,6 @@
 pyttsx3
 speechrecognition
+tkinter
+sympy
+pygame
+openai
